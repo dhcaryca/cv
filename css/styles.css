@@ -48,15 +48,15 @@ body {
 
 .stay-in-touch__text-content h3 {
     font-weight: 700;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 8px;
     color: #32afb2;
 }
 
 .stay-in-touch__text-content a {
     font-weight: 500;
-    font-size: 12px;
-    line-height: 8px;
+    font-size: 14px;
+    line-height: 14px;
     color: #313844;
     text-decoration: none;
     transition: color 400ms ease;
@@ -71,12 +71,12 @@ body {
     padding-left: 50px;
 }
 
-.main__header{
+.main__header {
     padding-bottom: 13px;
     border-bottom: 1px solid #313844;
 }
 
-.main__header h1{
+.main__header h1 {
     margin-top: 35px;
     font-weight: 700;
     font-size: 24px;
@@ -98,4 +98,133 @@ body {
     line-height: 18px;
     color: #313844;
     text-align: justify;
+}
+
+.main__exp {
+    margin-top: 15px;
+    border-bottom: 1px solid #313844;
+}
+
+.main__exp-part h2{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #313844;
+}
+
+.main__exp-part h3{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #32afb2;
+}
+
+.main__exp-part h4{
+    margin-top: 6px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #313844;
+}
+
+.main__exp-part ul{
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #313844;
+    list-style: inside;
+    list-style-type: '- ';
+}
+
+.main__university{
+    margin-top: 15px;
+    border-bottom: 1px solid #313844;
+}
+
+.main__university h2{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #313844;
+}
+
+.main__university h3{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #32afb2;
+}
+
+.main__university h4{
+    margin-top: 6px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #313844;
+}
+
+.main__university p{
+    margin-bottom: 14px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #313844;
+    text-align: justify;
+}
+
+.main__bottom{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.main__bottom-left{
+    width: 50%;
+    border-right: 1px solid #313844;
+}
+
+.main__bottom-right{
+    width: 50%;
+    padding-left: 18px;
+}
+
+.main__bottom h2{
+    margin-top: 20px;
+    margin-bottom: ;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #313844;
+}
+
+.main__bottom h3{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #32afb2;
+}
+
+.main__bottom ul{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #313844;
+    list-style: inside;
+    list-style-type: '- ';
+}
+
+.main__bottom p{
+    margin-bottom: 14px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #313844;
 }
